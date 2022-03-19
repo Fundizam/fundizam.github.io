@@ -5,12 +5,14 @@
       {
         "src": "images/gerila.png",
         "sizes": "256x256",
-        "type": "image/png"
+        "type": "image/png",
+        "purpose": "maskable"
       },
       {
         "src": "images/unity.png",
         "sizes": "512x512",
-        "type": "image/png"
+        "type": "image/png",
+        "purpose": "any"
       }
     ],
     "lang": "en-US",
